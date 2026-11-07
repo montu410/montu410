@@ -86,7 +86,7 @@ I learn by building practical projects and working across the deployment lifecyc
 * Docker containerization
 * Nginx reverse proxy
 
-<a href="https://github.com/iammanishjangra/automated-react-deployment-aws">
+<a href="https://github.com/montu410/automated-react-deployment-aws">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
