@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=720&height=35&lines=AWS+%E2%80%A2+Docker+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;Building+Reliable+Cloud+Infrastructure;Automating+Infrastructure+%26+Deployments;Learning+DevOps+by+Building+Real+Projects" alt="Typing SVG"/>
 
-<a href="https://linkedin.com/in/manishjangra97"><img src="https://img.shields.io/badge/LinkedIn-manishjangra97-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/iammanishjangra"><img src="https://img.shields.io/badge/GitHub-iammanishjangra-181717?style=flat-square&logo=github&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=iammanishjangra&label=Profile%20Views&color=1F6FEB&style=flat-square"/>
+<a href="https://www.linkedin.com/in/mohit-panwar-d1/"><img src="https://img.shields.io/badge/LinkedIn-mohit-panwar-d1-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/montu410"><img src="https://img.shields.io/badge/GitHub-montu410-181717?style=flat-square&logo=github&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=montu410&label=Profile%20Views&color=1F6FEB&style=flat-square"/>
 
 </div>
 
