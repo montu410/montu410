@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=720&height=35&lines=AWS+%E2%80%A2+Docker+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;Building+Reliable+Cloud+Infrastructure;Automating+Infrastructure+%26+Deployments;Learning+DevOps+by+Building+Real+Projects" alt="Typing SVG"/>
 
-<a href="https://www.linkedin.com/in/mohit-panwar-d1/"><img src="https://img.shields.io/badge/LinkedIn-mohit-panwar-d1-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/montu410"><img src="https://img.shields.io/badge/GitHub-montu410-181717?style=flat-square&logo=github&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=montu410&label=Profile%20Views&color=1F6FEB&style=flat-square"/>
+<a href="https://www.linkedin.com/in/mohit-panwar-d1/"><img src="https://img.shields.io/badge/LinkedIn-Mohit%20Panwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/montu410"><img src="https://img.shields.io/badge/GitHub-montu410-181717?style=flat-square&logo=github&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=montu410&label=Profile%20Views&color=1F6FEB&style=flat-square"/>
 
 </div>
 
@@ -125,46 +125,4 @@ I learn by building practical projects and working across the deployment lifecyc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,aws,docker,terraform,ansible,jenkins,githubactions,nginx,git,github&perline=10"/>
-
-**Linux** • **AWS** • **Docker** • **Terraform** • **Ansible** • **Jenkins** • **GitHub Actions** • **Nginx** • **Git** • **GitHub**
-
-</div>
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,50:1F6FEB,100:58A6FF&height=2"/>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=iammanishjangra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=1F6FEB"/>
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=iammanishjangra&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iammanishjangra&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true"/>
-
-</div>
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:1F6FEB,100:00B4D8&height=2"/>
-
-## 💼 Open to Opportunities
-
-I'm currently looking for opportunities as a **DevOps Engineer, Cloud Engineer, AWS DevOps Engineer, or Linux System Administrator**.
-
-I'm interested in contributing to **cloud infrastructure, CI/CD automation, containerized deployments, Linux environments, and Infrastructure as Code** while continuing to strengthen my production engineering experience.
-
-<div align="center">
-
-<a href="https://linkedin.com/in/mohit-panwar-d1">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/montu410">
-<img src="https://img.shields.io/badge/FOLLOW-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=32&lines=Build+%E2%80%A2+Automate+%E2%80%A2+Deploy+%E2%80%A2+Improve" alt="DevOps Motto"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,45:1F6FEB,75:161B22,100:0D1117&height=80&section=footer"/>
-
-</div>
+<img src="https://sk
