@@ -110,7 +110,7 @@ I learn by building practical projects and working across the deployment lifecyc
 * GitHub Actions CI/CD
 * AWS cloud deployment
 
-<a href="https://github.com/iammanishjangra/dockerized-todo-fullstack">
+<a href="https://github.com/montu410/dockerized-todo-fullstack">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
