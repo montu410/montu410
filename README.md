@@ -62,7 +62,7 @@ I learn by building practical projects and working across the deployment lifecyc
 * Trivy vulnerability scanning
 * OWASP ZAP dynamic testing
 
-<a href="https://github.com/iammanishjangra/deploy-devsecops-vite-project-jenkins">
+<a href="https://github.com/montu410/deploy-devsecops-vite-project-jenkins">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
